@@ -118,7 +118,7 @@ Additional output fields:
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repository
-```bash
+
 git clone https://github.com/Gauravrao1/Ey_hackathon.git
 cd ai-agentic-2
 ###2️⃣ Install Dependencies
