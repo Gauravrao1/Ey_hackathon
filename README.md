@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🏥 Provider Data Cleaner  
 ### Built for EY Hackathon 2025-26 🚀  
 
