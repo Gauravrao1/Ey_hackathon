@@ -161,9 +161,13 @@ Advanced AI anomaly detection
 This project was built collaboratively by:
 
 Gaurav Rao
+
 Rashi Gupta
+
 Ayush Raj Sinha
-Harsh vind
+
+Harsh Vind
+
 Shashank Awasthi
 
 Together, we focused on building a scalable and practical healthcare data validation solution.
