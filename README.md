@@ -1,5 +1,6 @@
+cat << 'EOF' > README.md
 # 🏥 Provider Data Cleaner  
-### Built for EY Hackathon 2025 🚀  
+### Built for EY Hackathon 2026 🚀  
 
 An AI-powered healthcare data cleaning application designed to standardize, validate, and enhance provider datasets with intelligent automation.
 
@@ -24,7 +25,7 @@ This tool automates validation, standardization, and quality scoring of provider
 ## 🌟 Key Features
 
 ### 📞 Phone Number Standardization (India Focused)
-- Converts numbers to standard `+91XXXXXXXXXX` format
+- Converts numbers to standard +91XXXXXXXXXX format
 - Handles:
   - 10-digit numbers  
   - 11-digit numbers (starting with 0)  
@@ -32,22 +33,20 @@ This tool automates validation, standardization, and quality scoring of provider
 - Flags invalid entries  
 
 Example:
-9876543210 → +919876543210
-09876543210 → +919876543210
-919876543210 → +919876543210
-
+9876543210   → +919876543210  
+09876543210  → +919876543210  
+919876543210 → +919876543210  
 
 ---
 
 ### 📧 Email Validation & Cleaning
 - Removes extra whitespace  
-- Fixes multiple `@` symbols  
+- Fixes multiple @ symbols  
 - Removes consecutive dots  
 - Validates proper email format  
 
 Example:
-test@@mail..com → test@mail.com
-
+test@@mail..com → test@mail.com  
 
 ---
 
@@ -55,19 +54,17 @@ test@@mail..com → test@mail.com
 
 Addresses are scored out of 100 based on:
 
-| Criteria | Points |
-|----------|--------|
-| Street Number | 25 |
-| Street Type | 25 |
-| ZIP Code | 20 |
-| City Name | 30 |
+- Street Number (25)
+- Street Type (25)
+- ZIP Code (20)
+- City Name (30)
 
 Rating System:
-- ⭐ Excellent (90–100)
-- ✅ Good (70–89)
-- ⚠️ Fair (50–69)
-- ❌ Poor (30–49)
-- 🚫 Invalid (0–29)
+- Excellent (90–100)
+- Good (70–89)
+- Fair (50–69)
+- Poor (30–49)
+- Invalid (0–29)
 
 For valid addresses, approximate India-based coordinates are generated:
 - Latitude range: 8°N – 35°N  
@@ -96,11 +93,11 @@ Download cleaned data as:
 - JSON  
 
 Additional output fields:
-- `phone_valid`
-- `email_valid`
-- `address_rating`
-- `validation_status`
-- `last_updated`
+- phone_valid
+- email_valid
+- address_rating
+- validation_status
+- last_updated
 
 ---
 
@@ -117,61 +114,53 @@ Additional output fields:
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
+git clone https://github.com/Gauravrao1/Ey_hackathon.git  
+cd ai-agentic-2  
 
-git clone https://github.com/Gauravrao1/Ey_hackathon.git
-cd ai-agentic-2
-###2️⃣ Install Dependencies
-npm install
-###3️⃣ Run Development Server
-npm run dev
+2️⃣ Install Dependencies
+npm install  
+
+3️⃣ Run Development Server
+npm run dev  
+
 Open in browser:
+http://localhost:5173  
 
-http://localhost:5173
-##📁 Project Structure
-ai-agentic-2/
-├── src/
-│   ├── AI-AGENTIC.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── postcss.config.js
-⚠️ Known Limitations
-Coordinates are approximate (not real geocoding API)
+---
 
-Optimized for Indian datasets
+## ⚠️ Known Limitations
 
-Large CSV files (>10MB) may process slower
+- Coordinates are approximate (not real geocoding API)
+- Optimized for Indian datasets
+- Large CSV files (>10MB) may process slower
 
-##🔮 Future Enhancements
-Real geocoding API integration
+---
 
-Duplicate detection engine
+## 🔮 Future Enhancements
 
-International phone format support
+- Real geocoding API integration  
+- Duplicate detection engine  
+- International phone format support  
+- Database export functionality  
+- Advanced AI anomaly detection  
 
-Database export functionality
+---
 
-Advanced AI anomaly detection
+## 👥 Team – EY Hackathon 2026
 
-##👥 Team – EY Hackathon 2026
-This project was built collaboratively by:
-
-Gaurav Rao
-
-Rashi Gupta
-
-Ayush Raj Sinha
-
-Harsh Vind
-
-Shashank Awasthi
+- Gaurav Rao  
+- Rashi Gupta  
+- Ayush Raj Sinha  
+- Harsh Vind  
+- Shashank Awasthi  
 
 Together, we focused on building a scalable and practical healthcare data validation solution.
 
-##👨‍💻 Author
-Gaurav Rao
-Engineering Student | AI & Frontend Enthusiast
+---
+
+## 👨‍💻 Author
+
+Gaurav Rao  
+Engineering Student | AI & Frontend Enthusiast  
+
