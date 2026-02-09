@@ -1,0 +1,51 @@
+name,phone,email,address,address_rating,coordinates,license,specialty,network,validation_status,last_updated
+Dr. Shravan Gaur,918939616399    ,shravan@example.com,28 Park Street Chennai,Fair,"13.02195, 69.28535",LIC553,Neurology,Network B,validated,16-10-2025
+Dr. Kavita Menon,918528861306    ,kavita@example.com,123 Park Street Lucknow,Fair,"26.1232, 81.1016",LIC446,Dermatology,Network B,validated,16-10-2025
+Dr. Kritika Basu,919851687582    ,kritika@example.com,142 MG Road Jaipur,Fair,"15.2749, 94.0737",LIC1972,Dermatology,Network C,validated,16-10-2025
+Dr. Sneha Patel,916300816573    ,sneha@gmail.com,16 Link Road Jaipur,Fair,"9.052, 76.176",LIC31,Orthopedics,Network C,validated,16-10-2025
+Dr. Tushar Anand,918490882640    ,tushar@example.com,89 Civil Lines Pune,Invalid,,LIC150,Neurology,Network C,validated,16-10-2025
+Dr. Isha Malhotra,919267179050    ,isha@example.com,167 Park Street Delhi,Fair,"8.14435, 83.37655",LIC82,General Medicine,Network C,validated,16-10-2025
+Dr. Aarav Joshi,918303284932    ,aarav@example.com,175 Park Street Ahmedabad,Fair,"31.47685, 95.19905",LIC793,Dermatology,Network A,validated,16-10-2025
+Dr. Rohan Sharma,916781094358    ,rohan@example.com,169 Gandhi Marg Delhi,Invalid,,LIC6333,Orthopedics,Network B,validated,16-10-2025
+Dr. Rekha Pillai,916292180719    ,rekha@example.com,111 MG Road Mumbai,Fair,"9.0081, 85.1053",LIC48,Oncology,Network A,validated,16-10-2025
+Dr. Reema Kapoor,917765973531    ,reema@example.com,74 Gandhi Marg Delhi,Invalid,,LIC82,Orthopedics,Network C,validated,16-10-2025
+Dr. Manish Rao,918825500832    ,manish@example.com,36 Gandhi Marg Hyderabad,Invalid,,LIC582,Orthopedics,Network A,validated,16-10-2025
+Dr. Tarun Bedi,916179689090    ,tarun@example.com,76 Gandhi Marg Bangalore,Invalid,,LIC6495,Orthopedics,Network B,validated,16-10-2025
+Dr. Akash Dubey,919464214336    ,akash@example.com,116 Civil Lines Ahmedabad,Invalid,,LIC62,Dermatology,Network B,validated,16-10-2025
+Dr. Nisha Verma,919544390584    ,nisha@example.com,64 Gandhi Marg Lucknow,Invalid,,LIC800,General Medicine,Network A,validated,16-10-2025
+Dr. Kavita Menon,+91XXXXXXXXXX,kavita@example.com,102 Civil Lines Chennai,Invalid,,LIC473,Orthopedics,Network C,partial,16-10-2025
+Dr. Reema Kapoor,918475432540    ,reema@example.com,40 Gandhi Marg Bangalore,Invalid,,LIC58,ENT,Network C,validated,16-10-2025
+Dr. Anjali Kumar,916637469262    ,anjali@example.com,44 MG Road Jaipur,Fair,"8.44055, 69.22715",LIC96,Dermatology,Network B,validated,16-10-2025
+Dr. Varun Joshi,+91XXXXXXXXXX,varun@example.com,135 Park Street Jaipur,Fair,"20.22875, 68.47375",LIC60,Orthopedics,Network C,partial,16-10-2025
+Dr. Sanjay Sinha,918484422638    ,sanjay@example.com,189 Gandhi Marg Chennai,Invalid,,LIC3550,ENT,Network A,validated,16-10-2025
+Dr. Sameer Bhat,919051457045    ,sameer@example.com,88 Civil Lines Pune,Invalid,,LIC331,ENT,Network B,validated,16-10-2025
+Dr. Arjun Mehta,917360704213    ,arjun@example.com,49 Link Road Chennai,Fair,"20.30655, 79.48515",LIC1307,General Medicine,Network B,validated,16-10-2025
+Dr. Pooja Bansal,919951372457    ,pooja@example.com,156 MG Road Pune,Fair,"19.107, 96.391",LIC2370,Pediatrics,Network C,validated,16-10-2025
+Dr. Shreya Tandon,918852845640    ,shreya@example.com,71 Link Road Ahmedabad,Fair,"26.09005, 78.17065",LIC44,Pediatrics,Network A,validated,16-10-2025
+Dr. Tanvi Joshi,919573725725    ,tanvi@example.com,99 Link Road Jaipur,Fair,"28.15335, 86.49355",LIC6256,Radiology,Network A,validated,16-10-2025
+Dr. Rohit Banerjee,916191024188    ,rohit@example.com,47 Civil Lines Chennai,Invalid,,LIC421,Neurology,Network A,validated,16-10-2025
+Dr. Jyoti Rao,+91XXXXXXXXXX,jyoti@example.com,105 MG Road Jaipur,Fair,"9.25355, 94.29615",LIC2872,Oncology,Network A,partial,16-10-2025
+Dr. Nirmal Kaur,917742502583    ,nirmal@example.com,162 Park Street Bangalore,Fair,"9.23305, 70.02965",LIC3759,General Medicine,Network B,validated,16-10-2025
+Dr. Aditi Rana,919060559849    ,aditi@example.com,138 MG Road Ahmedabad,Fair,"21.29495, 77.33435",LIC2820,Neurology,Network A,validated,16-10-2025
+Dr. Raj Malhotra,+91XXXXXXXXXX,raj@example.com,192 MG Road Delhi,Fair,"17.1022, 79.3286",LIC944,Dermatology,Network A,partial,16-10-2025
+Dr. Tushar Anand,919553234622    ,tushar@example.com,79 Civil Lines Kolkata,Invalid,,LIC26,Orthopedics,Network A,validated,16-10-2025
+Dr. Rachna Sen,917352419943    ,rachna@example.com,140 Park Street Jaipur,Fair,"9.46585, 77.05605",LIC6305,Psychiatry,Network B,validated,16-10-2025
+Dr. Tanvi Joshi,916043799748    ,tanvi@example.com,39 Link Road Jaipur,Fair,"12.22725, 95.45425",LIC6269,Orthopedics,Network A,validated,16-10-2025
+Dr. Suresh Pillai,919092524638    ,suresh@example.com,72 Gandhi Marg Jaipur,Invalid,,LIC6792,Orthopedics,Network C,validated,16-10-2025
+Dr. Rohit Banerjee,918138899068    ,rohit@example.com,61 Civil Lines Mumbai,Invalid,,LIC79,Pediatrics,Network C,validated,16-10-2025
+Dr. Rohit Banerjee,916247579913    ,rohit@example.com,44 Park Street Ahmedabad,Fair,"34.0991, 91.2883",LIC828,Psychiatry,Network A,validated,16-10-2025
+Dr. Tanvi Joshi,919533690724    ,tanvi@example.com,96 Civil Lines Kolkata,Invalid,,LIC52,Radiology,Network A,validated,16-10-2025
+Dr. Manoj Patil,916588831954    ,manoj@example.com,146 Park Street Mumbai,Fair,"23.34605, 89.49865",LIC3202,Orthopedics,Network B,validated,16-10-2025
+Dr. Deepika Soni,919080856709    ,deepika@example.com,96 Gandhi Marg Kolkata,Invalid,,LIC755,General Medicine,Network C,validated,16-10-2025
+Dr. Nirmal Kaur,917071617162    ,nirmal@example.com,55 MG Road Kolkata,Fair,"28.11355, 93.47615",LIC736,Oncology,Network C,validated,16-10-2025
+Dr. Akash Dubey,919994075893    ,akash@example.com,115 Link Road Bangalore,Fair,"12.1621, 83.1073",LIC816,Radiology,Network C,validated,16-10-2025
+Dr. Manish Rao,919518555708    ,manish@example.com,151 Link Road Pune,Fair,"16.36365, 92.22745",LIC79,Cardiology,Network B,validated,16-10-2025
+Dr. Harish Nair,917607351670    ,harish@example.com,39 Civil Lines Chennai,Invalid,,LIC92,Psychiatry,Network B,validated,16-10-2025
+Dr. Arjun Mehta,917074870896    ,arjun@example.com,20 MG Road Hyderabad,Fair,"10.4588, 91.4644",LIC740,Psychiatry,Network B,validated,16-10-2025
+Dr. Sanjay Sinha,916299215874    ,sanjay@example.com,34 Gandhi Marg Pune,Invalid,,LIC4452,Dermatology,Network B,validated,16-10-2025
+Dr. Harish Nair,918151547429    ,harish@example.com,64 Park Street Pune,Fair,"32.39655, 73.15515",LIC5931,Dermatology,Network A,validated,16-10-2025
+Dr. Neha Kapoor,916961675616    ,neha@example.com,41 Gandhi Marg Kolkata,Invalid,,LIC2275,Cardiology,Network C,validated,16-10-2025
+Dr. Suresh Pillai,918202039965    ,suresh@example.com,116 Civil Lines Chennai,Invalid,,LIC679,Neurology,Network C,validated,16-10-2025
+Dr. Manoj Patil,916643225139    ,manoj@example.com,87 Civil Lines Lucknow,Invalid,,LIC8947,Neurology,Network C,validated,16-10-2025
+Dr. Tushar Anand,919918714735    ,tushar@example.com,126 MG Road Kolkata,Fair,"26.1709, 94.2217",LIC965,Radiology,Network C,validated,16-10-2025
+Dr. Rohit Banerjee,919861243134    ,rohit@example.com,134 Gandhi Marg Kolkata,Invalid,,LIC911,Cardiology,Network A,validated,16-10-2025
