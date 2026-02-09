@@ -121,14 +121,14 @@ Additional output fields:
 ```bash
 git clone https://github.com/Gauravrao1/Ey_hackathon.git
 cd ai-agentic-2
-2️⃣ Install Dependencies
+###2️⃣ Install Dependencies
 npm install
-3️⃣ Run Development Server
+###3️⃣ Run Development Server
 npm run dev
 Open in browser:
 
 http://localhost:5173
-📁 Project Structure
+##📁 Project Structure
 ai-agentic-2/
 ├── src/
 │   ├── AI-AGENTIC.jsx
@@ -146,7 +146,7 @@ Optimized for Indian datasets
 
 Large CSV files (>10MB) may process slower
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 Real geocoding API integration
 
 Duplicate detection engine
@@ -157,7 +157,7 @@ Database export functionality
 
 Advanced AI anomaly detection
 
-👥 Team – EY Hackathon 2026
+##👥 Team – EY Hackathon 2026
 This project was built collaboratively by:
 
 Gaurav Rao
@@ -172,6 +172,6 @@ Shashank Awasthi
 
 Together, we focused on building a scalable and practical healthcare data validation solution.
 
-👨‍💻 Author
+##👨‍💻 Author
 Gaurav Rao
 Engineering Student | AI & Frontend Enthusiast
