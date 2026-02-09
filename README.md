@@ -1,6 +1,6 @@
 cat << 'EOF' > README.md
 # 🏥 Provider Data Cleaner  
-### Built for EY Hackathon 2026 🚀  
+### Built for EY Hackathon 2025-26 🚀  
 
 An AI-powered healthcare data cleaning application designed to standardize, validate, and enhance provider datasets with intelligent automation.
 
@@ -147,7 +147,7 @@ http://localhost:5173
 
 ---
 
-## 👥 Team – EY Hackathon 2026
+## 👥 Team – EY Hackathon 2025-26
 
 - Gaurav Rao  
 - Rashi Gupta  
