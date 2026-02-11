@@ -48,7 +48,7 @@ Example:
 Example:
 test@@mail..com → test@mail.com  
 
----
+--
 
 ### 📍 Intelligent Address Quality Scoring
 
