@@ -99,7 +99,7 @@ Additional output fields:
 - validation_status
 - last_updated
 
----
+--
 
 ## 🛠 Tech Stack
 
