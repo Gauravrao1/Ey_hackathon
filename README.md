@@ -122,10 +122,7 @@ cd ai-agentic-2
 npm install  
 
 3️⃣ Run Development Server
-npm run dev  
-
-Open in browser:
-http://localhost:5173  
+npm run dev    
 
 ---
 
