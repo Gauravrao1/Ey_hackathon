@@ -1,6 +1,6 @@
 # Tools & Technologies Used
 
-## 🎨 Frontend Framework & Libraries
+## 🎨 Frontend Framework & Libraries 
 
 ### **React 18.2.0**
 - **Purpose**: Core UI library for building the user interface
